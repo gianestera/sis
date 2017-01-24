@@ -31,6 +31,8 @@
 			</div>
 		</div>
 		</div>
+		
+		<h4 class="text-center" style="font-size:20px;"><font color="orange" face="Arial">Below are your account details:</font></h4>
 		<div class="container">
 		<div class="col-lg-offset-3 col-lg-6">
 			<div class="well">
@@ -75,7 +77,7 @@
 		<div class="container">
 		<div class="col-lg-offset-3 col-lg-6">
 			<div class="well">
-			<h2 class="text-center" style="font-size:20px;"><font color="black" face="Arial">Time: <?php echo date('c') ?> </font></h2>
+			<h2 class="text-center" style="font-size:20px;"><font color="black" face="Arial">Date and Time: <?php echo date('c') ?> </font></h2>
 		</div>
 		</div>
 		</div>
