@@ -36,13 +36,57 @@
 	<body background="infra.jpg">
 		<div class="container">
 		<div class="col-lg-offset-3 col-lg-6">
-				<div class="well">
-			<h1 class="text-center" style="font-size:45px;"><font color="lightblue" face="Arial">Welcome, <?php echo $firstname . " " . $lastname?>!</font></h1>
-			<h2 class="text-center" style="font-size:30px;"><font color="black" face="Arial">Your Student ID number is: <?php echo $studentNo ?></font></h2>
-			<h2 class="text-center" style="font-size:40px;"><font color="black" face="Arial"> </h2>
-			<h2 class="text-center" style="font-size:40px;"><font color="black" face="Arial"> </h2>
-			<h2 class="text-center" style="font-size:40px;"><font color="black" face="Arial"> </h2>
-			<h2 class="text-center" style="font-size:40px;"><font color="black" face="Arial"> </h2>
+			<div class="well">
+				<h1 class="text-center" style="font-size:60px;"><font color="lightblue" face="Arial">Welcome, <?php echo $firstname . " " . $lastname?>!</font></h1>
+			</div>
+		</div>
+		</div>
+		<div class="container">
+		<div class="col-lg-offset-3 col-lg-6">
+			<div class="well">
+			<h2 class="text-center" style="font-size:20px;"><font color="black" face="Arial">Your Student ID number is: <?php echo $studentNo ?></font></h2>
+			
+		
+		</div>
+		</div>
+		</div>
+		
+		<div class="container">
+		<div class="col-lg-offset-3 col-lg-6">
+			<div class="well">
+			<h2 class="text-center" style="font-size:20px;"><font color="black" face="Arial"> </h2>
+		</div>
+		</div>
+		</div>
+		
+		<div class="container">
+		<div class="col-lg-offset-3 col-lg-6">
+			<div class="well">
+			<h2 class="text-center" style="font-size:20px;"><font color="black" face="Arial"> </h2>
+		</div>
+		</div>
+		</div>
+		
+		<div class="container">
+		<div class="col-lg-offset-3 col-lg-6">
+			<div class="well">
+			
+		</div>
+		</div>
+		</div>
+		
+		<div class="container">
+		<div class="col-lg-offset-3 col-lg-6">
+			<div class="well">
+			<h2 class="text-center" style="font-size:20px;"><font color="black" face="Arial"> </h2>
+		</div>
+		</div>
+		</div>
+		
+		<div class="container">
+		<div class="col-lg-offset-3 col-lg-6">
+			<div class="well">
+			<h2 class="text-center" style="font-size:20px;"><font color="black" face="Arial"> </h2>
 		</div>
 		</div>
 		</div>
